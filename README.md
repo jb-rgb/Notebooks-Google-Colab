@@ -12,12 +12,6 @@ Este repositorio contiene una colección de libretas de Google Colab donde desar
   - `introduccion_redes_neuronales.ipynb`  
   - `perceptron_simple.ipynb`  
 
-### **2. Redes Neuronales Profundas (Deep Learning)**  
-- **Descripción:** Implementación de arquitecturas como feedforward, MLP y técnicas de optimización.  
-- **Libretas incluidas:**  
-  - `mlp_clasificacion_basica.ipynb`  
-  - `entrenamiento_avanzado.ipynb`
-
 ## Cómo Usar este Repositorio
 
 1. Clona el repositorio en tu máquina local:  
