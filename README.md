@@ -4,14 +4,6 @@ Este repositorio contiene una colección de libretas de Google Colab donde desar
 
 ---
 
-## Contenido del Repositorio
-
-### **1. Introducción a las Redes Neuronales**  
-- **Descripción:** Conceptos básicos y primeras implementaciones.  
-- **Libretas incluidas:**  
-  - `introduccion_redes_neuronales.ipynb`  
-  - `perceptron_simple.ipynb`  
-
 ## Cómo Usar este Repositorio
 
 1. Clona el repositorio en tu máquina local:  
