@@ -16,7 +16,7 @@ Este repositorio contiene una colección de libretas de Google Colab donde desar
 
 1. Clona el repositorio en tu máquina local:  
    ```bash
-   git clone https://github.com/tu-usuario/nombre-repositorio.git
+   git clone https://github.com/jb-rgb/Notebooks-Google-Colab.git
    ```
 
 2. Accede a una libreta de tu interés y ábrela en Google Colab:  
